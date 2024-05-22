@@ -1,5 +1,5 @@
 # DDos
-ddos script punya Zmlrcmk=
+ddos script punya Fikri
 
 ## Requirements
 
