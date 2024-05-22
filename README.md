@@ -1,2 +1,2 @@
 # DDos
-ddos script punya Fikri
+ddos script punya Zmlrcmk=
